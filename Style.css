@@ -22,7 +22,7 @@
 
 }
 li {
-    margin-left: 70px;
+    margin-left: 60px;
     list-style: none;
     font-size: 20px;
     color: antiquewhite;
@@ -128,7 +128,7 @@ color: beige;
 .contaner{
    
     
-    padding-right: 350px;
+    padding-right: 280px;
 
 }
 .menu_subtitle{
@@ -151,11 +151,11 @@ color: beige;
     width: 350px;
     height: 400px;
 
-margin-left: 170px;
+margin-left: 100px;
 margin-top: 50px;
 }
 .user{
-    padding-left: 60px;
+    padding-left: 40px;
     padding-top: 20px;
 }
 .user_img{
@@ -193,7 +193,7 @@ margin-top: 50px;
     grid-template-columns: 50% 50%;
 }
 /* contactus0 */
-.contact-info {
+/* .contact-info {
     /* background: #ffffff00; */
     padding: 20px 25px;
     /* border-radius: 10px; */
@@ -280,4 +280,4 @@ margin-top: 50px;
 text-decoration: none;
 color: white;
 }
-
+ */
